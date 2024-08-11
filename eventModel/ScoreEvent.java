@@ -1,7 +1,7 @@
 package eventModel;
 
 public class ScoreEvent {
-    private Score scoreValue;
+    private final Score scoreValue;
     
     public ScoreEvent(Object source, int scoreTeam1, int scoreTeam2){
         super();

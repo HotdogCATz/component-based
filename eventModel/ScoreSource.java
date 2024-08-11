@@ -28,7 +28,6 @@ public class ScoreSource {
         for (int i = 0; i < listeners.size(); i++) {
             ScoreListener sl = listeners.get(i);
             sl.scoreChange(scoreEvt);
-            ;
         }
     }
 

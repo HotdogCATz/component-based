@@ -1,8 +1,8 @@
 package eventModel;
 
 public class Score {
-    private int livScore;
-    private int sevScore;
+    private final int livScore;
+    private final int sevScore;
 
     public Score(int livScore, int sevScore) {
         this.livScore = livScore;
