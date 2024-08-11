@@ -1,0 +1,10 @@
+Main-Class: myevent.MyEvent
+
+Name: myevent/MySource.class
+Java-Bean: True
+
+Name: myevent/MyEventReceiver.class
+Java-Bean: True
+
+Name: myevent/MyEvent.class
+Java-Bean: False
