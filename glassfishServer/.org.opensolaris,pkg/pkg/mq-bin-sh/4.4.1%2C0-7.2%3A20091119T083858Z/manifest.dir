@@ -1,3 +1,0 @@
-dir group=sys mode=0755 owner=nobody path=mq
-dir group=sys mode=0755 owner=nobody path=mq/bin
-dir group=sys mode=0755 owner=nobody path=mq/lib
